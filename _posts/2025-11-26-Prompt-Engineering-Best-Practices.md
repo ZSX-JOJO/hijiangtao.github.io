@@ -215,3 +215,7 @@ Claude 最近新发了一篇关于提示工程最佳实践的文章，其中提�
 2. 学习路径：先熟练掌握核心技术，形成习惯后，仅在解决特定问题时添加高级技术。
 3. 优质提示的关键：并非最长或最复杂，而是能以最少的结构可靠达成目标。
 4. 与上下文工程的关系：提示工程是上下文工程的基础，每一个优质提示都是塑造AI行为的重要组成部分。
+
+## 参考
+
+原文：[Best practices for prompt engineering](https://claude.com/blog/best-practices-for-prompt-engineering)
