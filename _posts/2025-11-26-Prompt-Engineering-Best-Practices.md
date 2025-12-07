@@ -1,7 +1,7 @@
 ---
 title: 提示工程最佳实践：如何与 AI 更好地对话
 layout: post
-thread: 298
+thread: 299
 date: 2025-11-26
 author: Joe Jiang
 categories: Document
